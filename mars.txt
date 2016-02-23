@@ -2,4 +2,6 @@ added a lin
 adding another line
 another line
 another line
-Alright. I think git is working.
+Alright. I think git is working. 
+Now it actually works. Finally.
+
